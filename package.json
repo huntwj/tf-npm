@@ -1,0 +1,24 @@
+{
+  "name": "tf-npm",
+  "version": "0.1.0",
+  "description": "A base repository/example for hijacking npm to provide TinyFugue package management.",
+  "main": "main.tf",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/huntwj/tf-npm.git"
+  },
+  "keywords": [
+    "tf",
+    "npm",
+    "TinyFugue"
+  ],
+  "author": "Wil Hunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huntwj/tf-npm/issues"
+  },
+  "homepage": "https://github.com/huntwj/tf-npm#readme"
+}
