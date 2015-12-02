@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/huntwj/tf-npm/issues"
   },
-  "homepage": "https://github.com/huntwj/tf-npm#readme"
+  "homepage": "https://github.com/huntwj/tf-npm#readme",
+  "dependencies": {
+      "tf-wotmud": "git://github.com/huntwj/tf-wotmud.git"
+  }
 }
