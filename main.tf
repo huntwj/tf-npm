@@ -16,3 +16,6 @@
 /test secho      := "on"
 /test warn5keys  := "off"
 
+/load spedwalk.tf
+/speedwalk
+
